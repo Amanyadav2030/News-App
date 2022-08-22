@@ -1,0 +1,32 @@
+#search_input{
+    width: 70%;
+    border-radius: 15px;
+    border: 2px solid teal;
+    padding: 8px 11px;
+    font-size: 17px;
+    outline: none;
+
+}
+a{
+    text-decoration: none;
+    color: teal;
+}
+#navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+body{
+    background: antiquewhite;
+}
+div>div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 49%;
+    margin: auto;
+}
+img{
+    width:600px;
+}
